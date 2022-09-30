@@ -10,3 +10,4 @@
 
 https://www.youtube.com/watch?v=7JpSN1ZYE-U
 
+https://www.showwcase.com/show/17512/react-js-component-life-cycle
